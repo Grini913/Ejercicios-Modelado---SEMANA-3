@@ -4,8 +4,8 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -249.2337,
-    "scrollLeft": -357.7693,
+    "scrollTop": -488.934,
+    "scrollLeft": -139.3212,
     "zoomLevel": 0.75,
     "show": 431,
     "database": 4,
@@ -783,7 +783,7 @@
         "tableId": "Lb0hSoYmsKq8w_KBgC4cH",
         "name": "Rep_Id",
         "comment": "Con esto se podra identificar mejor en caso las reparaciones sean en gran escala de tiempo",
-        "dataType": "",
+        "dataType": "INTEGER",
         "default": "",
         "options": 10,
         "ui": {
@@ -794,7 +794,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745015318461,
+          "updateAt": 1745044374809,
           "createAt": 1745015152172
         }
       },
@@ -1456,7 +1456,8 @@
       {
         "name": 1745015157908,
         "comment": 1745015307199,
-        "options(primaryKey)": 1745015318460
+        "options(primaryKey)": 1745015318460,
+        "dataType": 1745044374809
       }
     ],
     "JiI6g17GLALLjv_4ajXh-": [
