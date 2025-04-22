@@ -4,15 +4,9 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-<<<<<<< HEAD
-    "scrollTop": -303.2764,
-    "scrollLeft": -264.541,
-    "zoomLevel": 0.63,
-=======
-    "scrollTop": -318.934,
-    "scrollLeft": -435.3212,
+    "scrollTop": -291.7417,
+    "scrollLeft": -320.3212,
     "zoomLevel": 0.75,
->>>>>>> f98f28e07f4e228d1286f0c299c3cbe089fbe078
     "show": 431,
     "database": 4,
     "databaseName": "Fabrica de Pelotas",
@@ -119,15 +113,15 @@
           "bs51SgT5ftLzmMIsWj5rh"
         ],
         "ui": {
-          "x": 1196.3684,
-          "y": 111.9605,
+          "x": 1155.035,
+          "y": 118.6271,
           "zIndex": 20,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1745016163918,
+          "updateAt": 1745129251328,
           "createAt": 1744997127896
         }
       },
@@ -194,7 +188,7 @@
       },
       "0PgG8djFfLTXZOYM7FkXK": {
         "id": "0PgG8djFfLTXZOYM7FkXK",
-        "name": "Asignación de Técnico a Máquina",
+        "name": "Asignación Técnico",
         "comment": "",
         "columnIds": [
           "CM5SttCO4tFMPMeBDbCwI",
@@ -216,18 +210,18 @@
           "x": 763.8756,
           "y": 320.3268,
           "zIndex": 74,
-          "widthName": 178,
+          "widthName": 102,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1745016539867,
+          "updateAt": 1745338481068,
           "createAt": 1744997537809
         }
       },
       "Lb0hSoYmsKq8w_KBgC4cH": {
         "id": "Lb0hSoYmsKq8w_KBgC4cH",
-        "name": "Reparación de Máquina",
+        "name": "Reparación ",
         "comment": "",
         "columnIds": [
           "dlyvDgYqxOs9TbTTnf1qp",
@@ -244,15 +238,15 @@
           "njKab4U2p2spu2jfZv8E8"
         ],
         "ui": {
-          "x": 79.7963,
-          "y": 565.4939,
+          "x": 163.7963,
+          "y": 558.8272,
           "zIndex": 91,
-          "widthName": 127,
+          "widthName": 64,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1745016461144,
+          "updateAt": 1745338487253,
           "createAt": 1744997751633
         }
       },
@@ -347,40 +341,40 @@
       "wcnd6uOoLSigrH5BIjmWs": {
         "id": "wcnd6uOoLSigrH5BIjmWs",
         "tableId": "hywzVmfXc5DvowegTB6wq",
-        "name": "Pro_GradodeComplejidad",
+        "name": "Pro_GradoComplejidad",
         "comment": "califica su nivel por escala numerica",
         "dataType": "INTEGER",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
-          "widthName": 138,
+          "widthName": 125,
           "widthComment": 190,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745012862470,
+          "updateAt": 1745338561122,
           "createAt": 1744997137416
         }
       },
       "oT3CJZ-67MXsf7WIDVmQY": {
         "id": "oT3CJZ-67MXsf7WIDVmQY",
         "tableId": "hdMK_WvqXZA_38yORtkyq",
-        "name": "Maq_IDnúmero",
+        "name": "Maq_ID",
         "comment": "",
         "dataType": "INTEGER",
         "default": "",
         "options": 10,
         "ui": {
           "keys": 1,
-          "widthName": 84,
+          "widthName": 60,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745012957777,
+          "updateAt": 1745338734071,
           "createAt": 1744997258920
         }
       },
@@ -487,20 +481,20 @@
       "nW6Uy-Eco4P4brDRR-phQ": {
         "id": "nW6Uy-Eco4P4brDRR-phQ",
         "tableId": "LQ7mdYL8mtHW-mUEUiVAa",
-        "name": "Tec_FechadeNacimiento",
+        "name": "Tec_FechaNacimiento",
         "comment": "",
         "dataType": "DATE",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
-          "widthName": 129,
+          "widthName": 115,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1744998707594,
+          "updateAt": 1745338567400,
           "createAt": 1744997472865
         }
       },
@@ -627,40 +621,40 @@
       "UWngU6E4pp5z889Dzz_PD": {
         "id": "UWngU6E4pp5z889Dzz_PD",
         "tableId": "Lb0hSoYmsKq8w_KBgC4cH",
-        "name": "Rep_IdMaquina",
+        "name": "Rep_MaquinaID",
         "comment": "",
         "dataType": "INTEGER",
         "default": "",
         "options": 8,
         "ui": {
           "keys": 0,
-          "widthName": 84,
+          "widthName": 85,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745015150805,
+          "updateAt": 1745338709913,
           "createAt": 1745010606834
         }
       },
       "DTrTj9jJkoomdlDszrAa3": {
         "id": "DTrTj9jJkoomdlDszrAa3",
         "tableId": "Lb0hSoYmsKq8w_KBgC4cH",
-        "name": "Rep_IdMaquinaRemplazo",
+        "name": "Rep_MaqIDReemplazo",
         "comment": "",
         "dataType": "INTEGER",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
-          "widthName": 136,
+          "widthName": 121,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745013763994,
+          "updateAt": 1745338690565,
           "createAt": 1745010607098
         }
       },
@@ -767,7 +761,7 @@
       "8jIgyP1jgw8bzJsP-K8PX": {
         "id": "8jIgyP1jgw8bzJsP-K8PX",
         "tableId": "hywzVmfXc5DvowegTB6wq",
-        "name": "Pro_Id",
+        "name": "Pro_ID",
         "comment": "Con esto se reconocerea la tarea aun si hay mas de una con el mismo nombre",
         "dataType": "INTEGER",
         "default": "",
@@ -780,16 +774,16 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745014318822,
+          "updateAt": 1745338626713,
           "createAt": 1745014277132
         }
       },
       "dlyvDgYqxOs9TbTTnf1qp": {
         "id": "dlyvDgYqxOs9TbTTnf1qp",
         "tableId": "Lb0hSoYmsKq8w_KBgC4cH",
-        "name": "Rep_Id",
+        "name": "Rep_ID",
         "comment": "Con esto se podra identificar mejor en caso las reparaciones sean en gran escala de tiempo",
-        "dataType": "",
+        "dataType": "INTEGER",
         "default": "",
         "options": 10,
         "ui": {
@@ -800,27 +794,27 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745015318461,
+          "updateAt": 1745338644052,
           "createAt": 1745015152172
         }
       },
       "JiI6g17GLALLjv_4ajXh-": {
         "id": "JiI6g17GLALLjv_4ajXh-",
         "tableId": "0PgG8djFfLTXZOYM7FkXK",
-        "name": "Maq_IDnúmero",
+        "name": "Maq_ID",
         "comment": "",
         "dataType": "INTEGER",
         "default": "",
         "options": 8,
         "ui": {
           "keys": 2,
-          "widthName": 84,
+          "widthName": 60,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745015679216,
+          "updateAt": 1745338744362,
           "createAt": 1745015679216
         }
       },
@@ -907,20 +901,20 @@
       "njKab4U2p2spu2jfZv8E8": {
         "id": "njKab4U2p2spu2jfZv8E8",
         "tableId": "Lb0hSoYmsKq8w_KBgC4cH",
-        "name": "Maq_IDnúmero",
+        "name": "Maq_ID",
         "comment": "",
         "dataType": "INTEGER",
         "default": "",
         "options": 8,
         "ui": {
           "keys": 2,
-          "widthName": 84,
+          "widthName": 60,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745016146656,
+          "updateAt": 1745338750778,
           "createAt": 1745016146656
         }
       },
@@ -956,8 +950,8 @@
           "columnIds": [
             "oT3CJZ-67MXsf7WIDVmQY"
           ],
-          "x": 710.2519,
-          "y": 273.8769,
+          "x": 698.2519,
+          "y": 311.8769,
           "direction": 2
         },
         "end": {
@@ -993,8 +987,8 @@
           "columnIds": [
             "bs51SgT5ftLzmMIsWj5rh"
           ],
-          "x": 1196.3684,
-          "y": 187.9605,
+          "x": 1155.035,
+          "y": 194.62709999999998,
           "direction": 1
         },
         "meta": {
@@ -1021,9 +1015,9 @@
           "columnIds": [
             "Jolz0Rw1R2HbSiDX3nWyk"
           ],
-          "x": 508.2519,
-          "y": 197.8769,
-          "direction": 4
+          "x": 698.2519,
+          "y": 235.8769,
+          "direction": 2
         },
         "meta": {
           "updateAt": 1745015833393,
@@ -1068,7 +1062,7 @@
           "columnIds": [
             "m29puNaAU7NoKde9etQig"
           ],
-          "x": 1603.2791,
+          "x": 1596.2791,
           "y": 698.3762,
           "direction": 8
         },
@@ -1096,7 +1090,7 @@
           "columnIds": [
             "oT3CJZ-67MXsf7WIDVmQY"
           ],
-          "x": 508.2519,
+          "x": 502.2519,
           "y": 349.8769,
           "direction": 8
         },
@@ -1105,8 +1099,8 @@
           "columnIds": [
             "njKab4U2p2spu2jfZv8E8"
           ],
-          "x": 512.2963,
-          "y": 565.4939,
+          "x": 588.7963,
+          "y": 558.8272,
           "direction": 4
         },
         "meta": {
@@ -1124,7 +1118,7 @@
           "columnIds": [
             "m29puNaAU7NoKde9etQig"
           ],
-          "x": 1603.2791,
+          "x": 1596.2791,
           "y": 546.3762,
           "direction": 4
         },
@@ -1213,7 +1207,7 @@
       1744997137416,
       -1,
       {
-        "name": 1744997232367,
+        "name": 1745338561121,
         "dataType": 1745012828452,
         "comment": 1745012862469
       }
@@ -1231,7 +1225,7 @@
       1744997258919,
       -1,
       {
-        "name": 1744997322468,
+        "name": 1745338734070,
         "options(primaryKey)": 1744997354496,
         "dataType": 1745012957777
       }
@@ -1297,7 +1291,7 @@
       1744997472864,
       -1,
       {
-        "name": 1744997484772,
+        "name": 1745338567399,
         "dataType": 1744998707593
       }
     ],
@@ -1316,7 +1310,7 @@
       1744997537808,
       -1,
       {
-        "name": 1744997619993
+        "name": 1745338481068
       }
     ],
     "CM5SttCO4tFMPMeBDbCwI": [
@@ -1352,7 +1346,7 @@
       1744997751633,
       -1,
       {
-        "name": 1744997755514
+        "name": 1745338487252
       }
     ],
     "prrbzZ6z5Bj69Qvdz571K": [
@@ -1375,7 +1369,7 @@
       1745010606833,
       -1,
       {
-        "name": 1745010636521,
+        "name": 1745338709912,
         "dataType": 1745013757275,
         "options(primaryKey)": 1745015150804
       }
@@ -1385,7 +1379,7 @@
       1745010607097,
       -1,
       {
-        "name": 1745010648106,
+        "name": 1745338690564,
         "dataType": 1745013763994
       }
     ],
@@ -1449,7 +1443,7 @@
       1745014277131,
       -1,
       {
-        "name": 1745014283172,
+        "name": 1745338626712,
         "dataType": 1745014289262,
         "comment": 1745014318821,
         "options(primaryKey)": 1745014301155
@@ -1460,9 +1454,10 @@
       1745015152172,
       -1,
       {
-        "name": 1745015157908,
+        "name": 1745338644051,
         "comment": 1745015307199,
-        "options(primaryKey)": 1745015318460
+        "options(primaryKey)": 1745015318460,
+        "dataType": 1745044374809
       }
     ],
     "JiI6g17GLALLjv_4ajXh-": [
@@ -1471,7 +1466,7 @@
       -1,
       {
         "options(notNull)": 1745015679214,
-        "name": 1745015679214,
+        "name": 1745338744361,
         "dataType": 1745015679214,
         "default": 1745015679214,
         "comment": 1745015679214
@@ -1561,7 +1556,7 @@
       -1,
       {
         "options(notNull)": 1745016146653,
-        "name": 1745016146653,
+        "name": 1745338750777,
         "dataType": 1745016146653,
         "default": 1745016146653,
         "comment": 1745016146653
