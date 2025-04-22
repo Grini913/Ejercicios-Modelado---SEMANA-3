@@ -4,9 +4,15 @@
   "settings": {
     "width": 2000,
     "height": 2000,
+<<<<<<< HEAD
     "scrollTop": -303.2764,
     "scrollLeft": -264.541,
     "zoomLevel": 0.63,
+=======
+    "scrollTop": -318.934,
+    "scrollLeft": -435.3212,
+    "zoomLevel": 0.75,
+>>>>>>> f98f28e07f4e228d1286f0c299c3cbe089fbe078
     "show": 431,
     "database": 4,
     "databaseName": "Fabrica de Pelotas",
