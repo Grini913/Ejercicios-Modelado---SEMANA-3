@@ -4,9 +4,9 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -488.934,
-    "scrollLeft": -139.3212,
-    "zoomLevel": 0.75,
+    "scrollTop": -532.5736,
+    "scrollLeft": -246.8255,
+    "zoomLevel": 0.87,
     "show": 431,
     "database": 4,
     "databaseName": "Fabrica de Pelotas",
@@ -783,7 +783,7 @@
         "tableId": "Lb0hSoYmsKq8w_KBgC4cH",
         "name": "Rep_Id",
         "comment": "Con esto se podra identificar mejor en caso las reparaciones sean en gran escala de tiempo",
-        "dataType": "INTEGER",
+        "dataType": "",
         "default": "",
         "options": 10,
         "ui": {
@@ -794,7 +794,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1745044374809,
+          "updateAt": 1745015318461,
           "createAt": 1745015152172
         }
       },
@@ -1456,8 +1456,7 @@
       {
         "name": 1745015157908,
         "comment": 1745015307199,
-        "options(primaryKey)": 1745015318460,
-        "dataType": 1745044374809
+        "options(primaryKey)": 1745015318460
       }
     ],
     "JiI6g17GLALLjv_4ajXh-": [
